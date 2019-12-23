@@ -1,0 +1,4 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Thu Mar 21 09:56:07 CST 2019
+http\://maven.aliyun.com/nexus/content/repositories/central/.error=Could not transfer artifact org.aspectj\:aspectjrt\:pom\:${aspectj.version} from/to alimaven (http\://maven.aliyun.com/nexus/content/repositories/central/)\: TransferFailedException
+@default-alimaven-http\://maven.aliyun.com/nexus/content/repositories/central/.lastUpdated=1553133367139

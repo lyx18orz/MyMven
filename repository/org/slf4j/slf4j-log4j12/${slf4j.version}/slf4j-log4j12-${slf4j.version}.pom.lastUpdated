@@ -1,0 +1,4 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Tue Oct 15 10:17:30 CST 2019
+http\://maven.aliyun.com/nexus/content/repositories/central/.error=Could not transfer artifact org.slf4j\:slf4j-log4j12\:pom\:${slf4j.version} from/to alimaven (http\://maven.aliyun.com/nexus/content/repositories/central/)\: TransferFailedException
+@default-alimaven-http\://maven.aliyun.com/nexus/content/repositories/central/.lastUpdated=1571105850149

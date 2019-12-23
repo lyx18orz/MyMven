@@ -1,0 +1,9 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Tue Mar 26 10:43:02 CST 2019
+https\://jcenter.bintray.com/.lastUpdated=1553568182266
+https\://repo.spring.io/milestone/.error=
+https\://repo.spring.io/snapshot/.error=
+http\://maven.aliyun.com/nexus/content/repositories/central/.error=
+https\://repo.spring.io/milestone/.lastUpdated=1553568181066
+http\://maven.aliyun.com/nexus/content/repositories/central/.lastUpdated=1553568181871
+https\://repo.spring.io/snapshot/.lastUpdated=1553568180768
